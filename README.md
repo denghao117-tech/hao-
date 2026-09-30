@@ -1,13 +1,13 @@
 # hao's introduction 
 
-name:hao deng
+- name:hao deng
 
-fav course: group theory and linear analysis
+- fav course: group theory and linear analysis
 
-least fav course: fluid dynamics
+- least fav course: fluid dynamics
 
-research interest: still deciding
+- research interest: still deciding
 
-hobby: video games and gym
+- hobby: video games and gym
 
-view it at [https://github.com/denghao117-tech/hao-/edit/main/README.md]
+- view it at [https://github.com/denghao117-tech/hao-/edit/main/README.md]
